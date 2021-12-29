@@ -7,6 +7,10 @@
 - sanitize mol object and removes hydrogens from a molecule
 - Find the pairwise tanimoto distance between the fingerprints of all the molecules
 - conformers of a molecule
+- Solvent Accessible Surface Area SASA
+- coordinate of a conformer of a mole obj 
+- centroid calculations ....
+- ALL TO DO .... SKUMAR
 
 
 **(see data molecule)**
