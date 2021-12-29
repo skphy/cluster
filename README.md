@@ -10,7 +10,7 @@
 - Solvent Accessible Surface Area SASA
 - coordinate of a conformer of a mole obj 
 - centroid calculations ....
-- ALL TO DO .... SKUMAR
+- some done .. and SOME TO DO .... SKUMAR
 
 
 **(see data molecule)**
