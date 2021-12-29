@@ -1,5 +1,5 @@
 # cluster
-- Cluster a set of molecules using the butina clustering 
+- Cluster a set of molecules using the butina clustering : J. Chem. Inf. Comput. Sci. 1999, 39, 4, 747–750
 - AND OTHERS SEE BELOW
 - Cluster the conformers of a molecule based on the RMS threshold in angstrom.
 - Pick molecules based on their fingerprint
