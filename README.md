@@ -1,5 +1,6 @@
 # cluster
 - Cluster a set of molecules using the butina clustering 
+- AND OTHERS SEE BELOW
 - Cluster the conformers of a molecule based on the RMS threshold in angstrom.
 - Pick molecules based on their fingerprint
 - if two molecules are same by comparing the InChiKey representation?
